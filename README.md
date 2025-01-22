@@ -20,4 +20,5 @@
 
 🔹 Aviso Legal: Embora o script shell fornecido tenha sido projetado com base na análise de alguns sistemas infectados, é importante destacar que ele pode não ser uma solução única para todos os cenários. ⚠️❤ Recomenda-se realizar uma verificação completa dos sistemas após a execução.
 
-🌐 Precisa de ajuda com segurança? A WPShield pode ajudar a proteger seu servidor contra ameaças como essas!
+🌐 Precisa de ajuda com segurança? A [WPShield](https://wpshield.com.br)
+ pode ajudar a proteger seu servidor contra ameaças como essas!
